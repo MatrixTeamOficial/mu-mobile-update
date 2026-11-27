@@ -1,7 +1,8 @@
 {
   "format": 1,
-  "revision": 1,
-  "date": "2026-11-22 19:22:32",
+  "revision": 2,
+  "date": "2026-11-27 10:24:28",
+  "apk": { "versionCode": 6758, "path": "apk/6758.apk", "size": 25037265, "sha256": "c5ba5ccd207720566bc62facc6e3ef632958070ac7808a8be73a1c2cb5027ef3" },
   "files": [
     { "p": "Data/Custom/Bow/BowDemon.bmd", "s": 94250, "h": "df977ad3160d1d60592ae0844661178389a7f8b391fe9bd947a10aea30cfabfa", "z": 52719 },
     { "p": "Data/Custom/Bow/BowDemonZANCLAIR.ozt", "s": 1048624, "h": "26ae6f050416a9af010894c0575c66e866fc9dc219936d9bc20d5c7be599a83e", "z": 172510 },
@@ -15300,7 +15301,7 @@
     { "p": "Lua/System/ScriptCore.enc", "s": 4875, "h": "2da3ee72dacd77b2a6874570e643e1e2c9ad423a2eda4624841c0bb1a450b285", "z": 3020 },
     { "p": "Lua/System/ScriptDefines.enc", "s": 2228, "h": "9222def07bbc682781f2834db60d563846e04a99a0512446d0560082bce88f72", "z": 1988 },
     { "p": "Lua/WindowName.enc", "s": 1009, "h": "5ea0a95bb1f0bc8f7289ec60c7a98a42905386702c763f772e728c0eca7b76c4", "z": 1011 },
-    { "p": "Mu.Info", "s": 289912, "h": "bf1f9a9633d437e116cc457bdbf3f3579c659ed913c9b0e2424a52fd931384d7", "z": 61745 }
+    { "p": "Mu.Info", "s": 289913, "h": "8dc0eb95b389b09e31c2d91d7526391919eb7eb244921f2fbc970507656ee22d", "z": 63032 }
   ],
   "deleted": []
 }
