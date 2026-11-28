@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "revision": 3,
-  "date": "2026-11-27 22:01:16",
-  "apk": { "versionCode": 6761, "path": "apk/6761.apk", "size": 25047989, "sha256": "eda69ffbc56e93ab27606a1cce02992c1edfe155085ae412e5f0035ca877c783" },
+  "revision": 4,
+  "date": "2026-11-27 22:19:58",
+  "apk": { "versionCode": 6762, "path": "apk/6762.apk", "size": 25050705, "sha256": "a4f257d2f86e119ba1d37054d5edbfcab261797d954193018990c7d1507cbe34" },
   "files": [
     { "p": "Data/Custom/Bow/BowDemon.bmd", "s": 94250, "h": "df977ad3160d1d60592ae0844661178389a7f8b391fe9bd947a10aea30cfabfa", "z": 52719 },
     { "p": "Data/Custom/Bow/BowDemonZANCLAIR.ozt", "s": 1048624, "h": "26ae6f050416a9af010894c0575c66e866fc9dc219936d9bc20d5c7be599a83e", "z": 172510 },
